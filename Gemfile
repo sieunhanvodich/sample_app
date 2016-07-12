@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.6'
+gem 'rails', '5.0.0'
 # Use sqlite3 as the database for Active Record
 gem 'puma',         '3.4.0'
 gem 'sass-rails',   '5.0.5'
@@ -39,3 +39,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap-sass', '3.3.6'
 gem 'bcrypt'
+
